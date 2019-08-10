@@ -2,7 +2,7 @@
 
 Layout of index page. Used PSD mockup, Avocode
 
-Good for Google Chrome, FireFox, IE(9-11) and mobile devices
+Great for Google Chrome, FireFox, IE(9-11) and mobile devices, good for Edge
 
 Used technologies:
 
